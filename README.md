@@ -26,6 +26,6 @@ O projeto foi criado usando [Google AI Studio](https://aistudio.google.com) com 
 Clone o repositório. Para executar esta aplicação web específica, abra o arquivo `src/index.html` em seu navegador preferido.
 
 ```bash
-git clone https://github.com/SEU_USUARIO/Projeto-AI-Studio-Gemini.git
+git clone https://github.com/SEU_USUARIO/projeto-studio-ia.git
 # Após clonar, navegue até a pasta do projeto e abra o arquivo src/index.html no navegador.
 ```
